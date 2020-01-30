@@ -1,8 +1,8 @@
-@import "https://fonts.googleapis.com/css?family=Poppins:400,700";
+@import "https://fonts.googleapis.com/css?family=Roboto:400,700";
 
 body {
-	background-color: #e9e9e9
-	font-family: "Poppins", sans_serifg;
+	background-color: #e9e9e9;
+	font-family: "Roboto", sans_serifg;
 }
 
 h1 {
@@ -19,7 +19,7 @@ h2 {
 
 h3 {
 	font-size: 0.8em;
-	color: #414141
+	color: #414141;
 }
 
 p {
